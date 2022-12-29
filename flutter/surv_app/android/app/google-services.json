@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270947803660",
+    "project_id": "embsys-project",
+    "storage_bucket": "embsys-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270947803660:android:fb0e7ccd0bb3df68988429",
+        "android_client_info": {
+          "package_name": "com.example.surv_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270947803660-m50l8k8amlsm0vhsd4je0fs4m3rptlik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQg-x0zc7prID3UJ6Bu7hEwC7q-wPaZIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270947803660-m50l8k8amlsm0vhsd4je0fs4m3rptlik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
